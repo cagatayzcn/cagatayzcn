@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Çağatay Özcan and from Turkey.
+- 👀 I’m interested in German, back-end developer and software.
+- 🌱 I’m currently learning CSS and Boostrap.
+- 💞️ I’m looking to collaborate on nobody.
+- 📫 How to reach me instagram for @cagatayzcn.
