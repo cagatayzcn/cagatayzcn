@@ -1,5 +1,3 @@
 - 👋 Hi, I’m Çağatay Özcan and from Turkey.
-- 👀 I’m interested in German Girls.
 - 🌱 I’m currently learning HTML, CSS, Boostrap, Javascript.
 - 💞️ I’m looking to collaborate on nobody.
-- 📫 How to reach me instagram for @cagatayzcn.
