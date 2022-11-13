@@ -1,3 +1,4 @@
 - 👋 Yalova University - International Trade and Finance Dept.
 - 🌱 HTML, CSS, Pawno(.amx files) 
+- 😐 I'm learning Python.
 - 💞️ https://cagatayzcn.xyz - My web site.
