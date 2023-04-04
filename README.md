@@ -1,3 +1,3 @@
 - 👋 Yalova University - International Trade and Finance Dept.
 - 🌱 HTML, CSS, JS, PYTHON, Pawno(.amx files)
-- 💞️ https://cagatayzcn.xyz - My web site.
+- 💞️ https://cagatayozcan.com.tr - Personal Web Site (Editing... %44 # Front (login-panel) )
